@@ -5,7 +5,7 @@ Anaconda를 설치한 경우 Jupyter에는 파이썬 kernel이 설정되어 있�
 Anaconda를 통한 설치를 해볼 것이다.   
 
 
-### 1. Anaconda 환경 R 설치 방법   
+## 1. Anaconda 환경 R 설치 방법   
 
 Anaconda Prompt에서 설치 명령어를 작성한다.
 
@@ -24,8 +24,9 @@ conda install r-irkernel
 
 <img src="../images/r-irkernel_4.png" width="70%" height="70%">
 
+---
 
-### 2. R 간단 동작
+## 2. R 간단 동작
 <img src="../images/02_info_3.png" width="70%" height="70%">
 
 출처: https://www.kaggle.com/datasets/aslanahmedov/predict-term-deposit   
